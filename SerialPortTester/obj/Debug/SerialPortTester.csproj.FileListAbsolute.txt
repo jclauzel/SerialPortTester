@@ -1,0 +1,7 @@
+C:\Users\jclau\source\repos\SerialPortTester\SerialPortTester\obj\Debug\SerialPortTester.csproj.AssemblyReference.cache
+C:\Users\jclau\source\repos\SerialPortTester\SerialPortTester\obj\Debug\SerialPortTester.csproj.CoreCompileInputs.cache
+C:\Users\jclau\source\repos\SerialPortTester\SerialPortTester\bin\Debug\SerialPortTester.exe.config
+C:\Users\jclau\source\repos\SerialPortTester\SerialPortTester\bin\Debug\SerialPortTester.exe
+C:\Users\jclau\source\repos\SerialPortTester\SerialPortTester\bin\Debug\SerialPortTester.pdb
+C:\Users\jclau\source\repos\SerialPortTester\SerialPortTester\obj\Debug\SerialPortTester.exe
+C:\Users\jclau\source\repos\SerialPortTester\SerialPortTester\obj\Debug\SerialPortTester.pdb
